@@ -1,2 +1,0 @@
-# Jetsada
-My github
